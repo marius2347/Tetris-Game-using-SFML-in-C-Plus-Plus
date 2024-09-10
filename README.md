@@ -1,7 +1,7 @@
 # Tetris Game using SFML in C++
 
 ## Features
-- Compile the program in console using: g++ -g path/to/folder/game.cpp -o path/to/folder/game -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
+- Compile the program in console using: `g++ -g path/to/folder/game.cpp -o path/to/folder/game -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio`
 - Run the application in console: `./game`
 - Real time score points, 10 points per one full line of tiles completed
 - Timer elapsed in seconds
