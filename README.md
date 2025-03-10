@@ -12,9 +12,7 @@
 - Tetris Original Theme playing in the background
 - Resolution 400x600
 
-## Acknowledgments
 
-**C++**: [https://bit.ly/cplusplus-certifications](https://bit.ly/cplusplus-certifications)  
 
 ## Demo Video
 
